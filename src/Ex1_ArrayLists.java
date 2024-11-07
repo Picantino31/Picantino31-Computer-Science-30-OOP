@@ -30,7 +30,7 @@ public class Ex1_ArrayLists {
             System.out.println(allNames.get(i) + " has earned $" + allDollars.get(i) );
         }
 
-
+//adsadsadsadsadaa
 
 
     }
