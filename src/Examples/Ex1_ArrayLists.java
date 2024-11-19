@@ -1,3 +1,5 @@
+package Examples;
+
 import java.util.ArrayList;
 public class Ex1_ArrayLists {
     public static void run(){
