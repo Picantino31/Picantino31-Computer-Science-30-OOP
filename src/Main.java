@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args) {
 //    Ex1_ArrayLists.run();
 //        As1_Main.run();
-        As2_LeagueMain.run();
+       As2_LeagueMain.run();
     }
       }
