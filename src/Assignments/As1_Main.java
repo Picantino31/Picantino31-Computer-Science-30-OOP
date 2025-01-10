@@ -31,7 +31,7 @@ public class As1_Main {
 
 
         //looping menu
-        System.out.println("Welcome to Philip's Farm!");
+        System.out.println("Welcome to Aaron's Farm!");
 
         while(true){
             System.out.println("\nWhat do you want to do?\n1.Print farm summary\n2.Search & harvest a crop\n3.Total Revenue\n4.Plant crops\n5.Exit");
